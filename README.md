@@ -1,7 +1,11 @@
-# VPC-Security
+# AWS-VPC-Security
+
 Secure VPC Setup with EC2 Instances
 
-Project:
+## Project:
+
+  ![aws-secure-vpc-img](https://github.com/Biswajit-Mohapatra2/AWS-VPC-Security/assets/105672728/301c64da-0683-41ab-b2ed-c611b5e48006)
+
 
 - Design and configure a VPC: Create a VPC with custom IP ranges. Set up public and private subnets. Configure route tables and associate subnets.
 
@@ -14,3 +18,5 @@ Project:
 - SSH key pair and access control: Generate an SSH key pair and securely store the private key. Configure the instances to allow SSH access only with the generated key pair. Implement IAM policies and roles to control access and permissions to AWS resources.
 
 - Test and validate the setup: SSH into the EC2 instances using the private key and verify connectivity. Test network connectivity between instances in different subnets. Validate security group rules and network ACL settings.
+
+  
